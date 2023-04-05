@@ -613,7 +613,7 @@ footer{
     }
     
     .logo{
-        width: 100px;
+        width: 42px;
     }
 
     h2{
@@ -629,7 +629,9 @@ footer{
     }
     
     header{
-        padding-top: 2rem;
+        padding: 0 2rem;
+        padding-top: 1.5rem;
+
     }
 
     .func-middle, .func-end{
