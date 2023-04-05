@@ -611,6 +611,10 @@ footer{
     body{
         font-size: 16px;
     }
+    
+    .logo{
+        width: 100px;
+    }
 
     h2{
         font-size: 2rem;
@@ -620,8 +624,12 @@ footer{
         font-size: 1.5rem;
     }
 
-    header, .func, .email-form{
+    .func, .email-form{
         padding: 0 2rem;
+    }
+    
+    header{
+        padding-top: 2rem;
     }
 
     .func-middle, .func-end{
